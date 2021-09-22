@@ -1,4 +1,4 @@
-### Hello there 👋, my name Luke Withington, im a developer mostly focusing in full stack development on pretty much anything I find fun!
+## Hello there 👋, my name Luke Withington, im a developer mostly focusing in full stack development on pretty much anything I find fun!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeos11&theme=dark&show_icons=true)
 <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeos11&theme=dark)
