@@ -1,6 +1,7 @@
 ### Hello there 👋, my name Luke Withington, im a developer mostly focusing in full stack development on pretty much anything I find fun!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeos11&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeos11&theme=dark)
+<br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeos11&theme=dark)
 
 - 🔭 I’m currently working on Spirit my Discord Bot.
 - 🌱 I’m currently learning PHP although I already know lots im still working on the finishing touches.
