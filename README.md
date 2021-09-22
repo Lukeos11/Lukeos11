@@ -17,5 +17,6 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
+## Profile Visits
 ![Profile Visits](https://profile-counter.glitch.me/lukeos11/count.svg)
 
