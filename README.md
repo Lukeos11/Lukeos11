@@ -17,3 +17,5 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
+![Profile Visits](https://profile-counter.glitch.me/kyeondiscord/count.svg)
+
