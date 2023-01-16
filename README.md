@@ -13,10 +13,8 @@
 <br>https://www.twitch.tv/lukeos1110
 <br>https://www.youtube.com/channel/UCUdf5zwN79lOjA2fULOYIWw
 <br>https://discord.gg/WurSKYf Or https://discord.gg/9QTPvBkRZW
-<br>https://vatpac.org/profile/2425-luke-withington/
 - 😄 Pronouns: He/Him.
 - ⚡ Fun facts: ...
 
 ## Profile Visits
 ![Profile Visits](https://profile-counter.glitch.me/lukeos11/count.svg)
-
